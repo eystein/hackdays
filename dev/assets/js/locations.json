@@ -1,0 +1,550 @@
+{
+  "FileInfo": {
+    "LocationsCount": [
+      "26"
+    ],
+    "Items": [
+      {
+        "Items": [
+          null,
+          "2",
+          null,
+          null
+        ],
+        "ItemsElementName": [
+          "TargetDate",
+          "LocationTypeID",
+          "LocationID",
+          "ParentID"
+        ]
+      }
+    ],
+    "created": "/Date(1519833570980+0100)/",
+    "createdSpecified": true
+  },
+  "Location": [
+    {
+      "Image": "AG",
+      "URL": "",
+      "Capital": "Aarau",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Aargau",
+      "ShortName": "AG",
+      "id": "3",
+      "locationNumber": "19"
+    },
+    {
+      "Image": "AR",
+      "URL": "",
+      "Capital": "Herisau",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 0.5,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Appenzell Ausserrhoden",
+      "ShortName": "AR",
+      "id": "4",
+      "locationNumber": "15"
+    },
+    {
+      "Image": "AI",
+      "URL": "",
+      "Capital": "Appenzell",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 0.5,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Appenzell Innerrhoden",
+      "ShortName": "AI",
+      "id": "6",
+      "locationNumber": "16"
+    },
+    {
+      "Image": "BL",
+      "URL": "",
+      "Capital": "Liestal",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 0.5,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Basel-Landschaft",
+      "ShortName": "BL",
+      "id": "7",
+      "locationNumber": "13"
+    },
+    {
+      "Image": "BS",
+      "URL": "",
+      "Capital": "Basel",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 0.5,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Basel-Stadt",
+      "ShortName": "BS",
+      "id": "8",
+      "locationNumber": "12"
+    },
+    {
+      "Image": "BE",
+      "URL": "",
+      "Capital": "Bern",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Bern",
+      "ShortName": "BE",
+      "id": "9",
+      "locationNumber": "2"
+    },
+    {
+      "Image": "FR",
+      "URL": "",
+      "Capital": "Freiburg",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Fribourg",
+      "ShortName": "FR",
+      "id": "10",
+      "locationNumber": "10"
+    },
+    {
+      "Image": "GE",
+      "URL": "",
+      "Capital": "Genf",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Geneva",
+      "ShortName": "GE",
+      "id": "11",
+      "locationNumber": "25"
+    },
+    {
+      "Image": "GL",
+      "URL": "",
+      "Capital": "Glarus",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Glarus",
+      "ShortName": "GL",
+      "id": "12",
+      "locationNumber": "8"
+    },
+    {
+      "Image": "GR",
+      "URL": "",
+      "Capital": "Chur",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Graubünden",
+      "ShortName": "GR",
+      "id": "13",
+      "locationNumber": "18"
+    },
+    {
+      "Image": "JU",
+      "URL": "",
+      "Capital": "Delémont",
+      "VectorData": [],
+      "ValidFrom": "/Date(283993200000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(6595340400000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Jura",
+      "ShortName": "JU",
+      "id": "14",
+      "locationNumber": "26"
+    },
+    {
+      "Image": "LU",
+      "URL": "",
+      "Capital": "Luzern",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Lucerne",
+      "ShortName": "LU",
+      "id": "15",
+      "locationNumber": "3"
+    },
+    {
+      "Image": "NE",
+      "URL": "",
+      "Capital": "Neuenburg",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Neuchâtel",
+      "ShortName": "NE",
+      "id": "16",
+      "locationNumber": "24"
+    },
+    {
+      "Image": "NW",
+      "URL": "",
+      "Capital": "Stans",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 0.5,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Nidwalden",
+      "ShortName": "NW",
+      "id": "17",
+      "locationNumber": "7"
+    },
+    {
+      "Image": "OW",
+      "URL": "",
+      "Capital": "Sarnen",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 0.5,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Obwalden",
+      "ShortName": "OW",
+      "id": "18",
+      "locationNumber": "6"
+    },
+    {
+      "Image": "SH",
+      "URL": "",
+      "Capital": "Schaffhausen",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Schaffhausen",
+      "ShortName": "SH",
+      "id": "19",
+      "locationNumber": "14"
+    },
+    {
+      "Image": "SZ",
+      "URL": "",
+      "Capital": "Schwyz",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Schwyz",
+      "ShortName": "SZ",
+      "id": "20",
+      "locationNumber": "5"
+    },
+    {
+      "Image": "SG",
+      "URL": "",
+      "Capital": "St. Gallen",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "St. Gallen",
+      "ShortName": "SG",
+      "id": "21",
+      "locationNumber": "17"
+    },
+    {
+      "Image": "SO",
+      "URL": "",
+      "Capital": "Solothurn",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Solothurn",
+      "ShortName": "SO",
+      "id": "22",
+      "locationNumber": "11"
+    },
+    {
+      "Image": "TI",
+      "URL": "",
+      "Capital": "Bellinzona",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Ticino",
+      "ShortName": "TI",
+      "id": "23",
+      "locationNumber": "21"
+    },
+    {
+      "Image": "TG",
+      "URL": "",
+      "Capital": "Frauenfeld",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Thurgau",
+      "ShortName": "TG",
+      "id": "24",
+      "locationNumber": "20"
+    },
+    {
+      "Image": "UR",
+      "URL": "",
+      "Capital": "Altdorf",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Uri",
+      "ShortName": "UR",
+      "id": "25",
+      "locationNumber": "4"
+    },
+    {
+      "Image": "VD",
+      "URL": "",
+      "Capital": "Lausanne",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Vaud",
+      "ShortName": "VD",
+      "id": "26",
+      "locationNumber": "22"
+    },
+    {
+      "Image": "VS",
+      "URL": "",
+      "Capital": "Sion",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Valais",
+      "ShortName": "VS",
+      "id": "27",
+      "locationNumber": "23"
+    },
+    {
+      "Image": "ZG",
+      "URL": "",
+      "Capital": "Zug",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Zug",
+      "ShortName": "ZG",
+      "id": "28",
+      "locationNumber": "9"
+    },
+    {
+      "Image": "ZH",
+      "URL": "",
+      "Capital": "Zürich",
+      "VectorData": [],
+      "ValidFrom": "/Date(-2208992400000-0000)/",
+      "ValidFromSpecified": true,
+      "ValidTo": "/Date(4102354800000-0000)/",
+      "ValidToSpecified": true,
+      "ParentLocationID": "1",
+      "ElectionPower": 1,
+      "LocationType": {
+        "id": "2",
+        "Value": "Kanton"
+      },
+      "LocationName": "Zurich",
+      "ShortName": "ZH",
+      "id": "29",
+      "locationNumber": "1"
+    }
+  ],
+  "targetDate": "/Date(-62135596800000-0000)/",
+  "targetDateSpecified": false,
+  "language": "EN"
+}
