@@ -2,9 +2,6 @@ $(document).ready(function () {
   $.getJSON("assets/js/locations.json", function (data) {
 
     var location = data['Location'];
-    console.log(location);
-
-
 
     var arrItems = [];        // The array to store JSON items
 
@@ -24,6 +21,7 @@ $(document).ready(function () {
 
     // Crate dynamic table
     var table = document.createElement("table");
+    table.setAttribute('class','table-bordered');
 
     // Create HTML table header row using the extracted headers above
 
@@ -51,4 +49,7 @@ $(document).ready(function () {
     divContainer.appendChild(table);
 
   });
+
+  let dataTable = document.querySelector('#showData table');
+  dataTable.setAttribute('class', 'table');
 });
