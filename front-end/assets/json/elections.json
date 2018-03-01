@@ -1,0 +1,624 @@
+{
+  "FileInfo": {
+    "Items1": [
+      "14",
+      "/Date(1518081942000-0000)/",
+      null
+    ],
+    "Items1ElementName": [
+      "ElectionsCount",
+      "LastCandidateResult",
+      "LastPartyResult"
+    ],
+    "Items": [
+      {
+        "Items": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "ItemsElementName": [
+          "ElectionID",
+          "CaseID",
+          "LocationID",
+          "LocationTypeID",
+          "DataconditionID",
+          "PartyName",
+          "TimeStamp"
+        ]
+      }
+    ],
+    "created": "/Date(1519912308332+0100)/",
+    "createdSpecified": true
+  },
+  "Case": {
+    "Title": "Abstimmungen und Wahlen vom 4. März 2018",
+    "EventDate": "/Date(1520118000000-0000)/",
+    "EventDateSpecified": true,
+    "id": "1469",
+    "active": true
+  },
+  "Elections": {
+    "Election": [
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "",
+          "OfficialType": {
+            "id": "3",
+            "Value": "Chair"
+          },
+          "id": "147"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 1,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Uri",
+          "ShortName": "UR",
+          "id": "25",
+          "locationNumber": "4"
+        },
+        "id": "1528"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "",
+          "OfficialType": {
+            "id": "3",
+            "Value": "Chair"
+          },
+          "id": "148"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 1,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Uri",
+          "ShortName": "UR",
+          "id": "25",
+          "locationNumber": "4"
+        },
+        "id": "1531"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "State council",
+          "OfficialType": {
+            "id": "2",
+            "Value": "Government"
+          },
+          "id": "49"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 0.5,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Nidwalden",
+          "ShortName": "NW",
+          "id": "17",
+          "locationNumber": "7"
+        },
+        "id": "1517"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "Landrat",
+          "OfficialType": {
+            "id": "1",
+            "Value": "Parliament"
+          },
+          "id": "94"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 0.5,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Nidwalden",
+          "ShortName": "NW",
+          "id": "17",
+          "locationNumber": "7"
+        },
+        "id": "1516"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "State council",
+          "OfficialType": {
+            "id": "2",
+            "Value": "Government"
+          },
+          "id": "81"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 0.5,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Obwalden",
+          "ShortName": "OW",
+          "id": "18",
+          "locationNumber": "6"
+        },
+        "id": "1515"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "Cantonal parliament",
+          "OfficialType": {
+            "id": "1",
+            "Value": "Parliament"
+          },
+          "id": "95"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 0.5,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Obwalden",
+          "ShortName": "OW",
+          "id": "18",
+          "locationNumber": "6"
+        },
+        "id": "1513"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "State council",
+          "OfficialType": {
+            "id": "2",
+            "Value": "Government"
+          },
+          "id": "98"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 1,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Glarus",
+          "ShortName": "GL",
+          "id": "12",
+          "locationNumber": "8"
+        },
+        "id": "1524"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "Ersatzwahl Staatsrat",
+          "OfficialType": {
+            "id": "2",
+            "Value": "Government"
+          },
+          "id": "136"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "1",
+          "ElectionPower": 1,
+          "LocationType": {
+            "id": "2",
+            "Value": "Canton"
+          },
+          "LocationName": "Fribourg",
+          "ShortName": "FR",
+          "id": "10",
+          "locationNumber": "10"
+        },
+        "id": "1518"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "Gemeinderat",
+          "OfficialType": {
+            "id": "1",
+            "Value": "Parliament"
+          },
+          "id": "139"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "215",
+          "LocationType": {
+            "id": "4",
+            "Value": "Community"
+          },
+          "LocationName": "Winterthur",
+          "ShortName": "Winterthur",
+          "id": "3182",
+          "locationNumber": "230"
+        },
+        "id": "1526"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "City Council",
+          "OfficialType": {
+            "id": "2",
+            "Value": "Government"
+          },
+          "id": "99"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "215",
+          "LocationType": {
+            "id": "4",
+            "Value": "Community"
+          },
+          "LocationName": "Winterthur",
+          "ShortName": "Winterthur",
+          "id": "3182",
+          "locationNumber": "230"
+        },
+        "id": "1525"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": [
+            {
+              "LocationResults": [
+                {
+                  "LocationResult": [
+                    {
+                      "Votes": "45645",
+                      "AlreadyElected": true,
+                      "DataCondition": {
+                        "id": "Item3",
+                        "Value": "Result"
+                      },
+                      "ResultCondition": {
+                        "id": "Item1",
+                        "Value": "undefined"
+                      },
+                      "ResultLocation": {
+                        "ParentLocationID": "217",
+                        "LocationType": {
+                          "id": "4",
+                          "Value": "Gemeinde"
+                        },
+                        "LocationName": "Stadt Zürich",
+                        "ShortName": "Zürich",
+                        "id": "3195",
+                        "locationNumber": "261"
+                      },
+                      "locked": true,
+                      "DateChangedDateTime": "/Date(1518081942000-0000)/",
+                      "DateChanged": "2018-02-08T10:25:42.0000000+01:00",
+                      "id": "116162"
+                    }
+                  ],
+                  "dataConditionID": "Item3"
+                }
+              ],
+              "FirstName": "Richard",
+              "LastName": "Wolff",
+              "YearBirth": "1957",
+              "OldNameDateSpecified": false,
+              "OldPartyNameDateSpecified": false,
+              "CandidateParty": {
+                "Name": "Alternative Liste",
+                "ShortName": "AL",
+                "ParentShortName": "AL",
+                "partyLogoUrl": "https://www.srf.ch/static/wahlgrafiken/images/partylogos/al_zh.jpg",
+                "id": "173",
+                "smartVoteID": "101",
+                "partyColor": "#800000"
+              },
+              "candidateNumber": "0",
+              "id": "9175",
+              "smartVoteID": "14544"
+            },
+            {
+              "LocationResults": [
+                {
+                  "LocationResult": [
+                    {
+                      "Votes": "445",
+                      "AlreadyElected": false,
+                      "DataCondition": {
+                        "id": "Item3",
+                        "Value": "Result"
+                      },
+                      "ResultCondition": {
+                        "id": "Item1",
+                        "Value": "undefined"
+                      },
+                      "ResultLocation": {
+                        "ParentLocationID": "217",
+                        "LocationType": {
+                          "id": "4",
+                          "Value": "Gemeinde"
+                        },
+                        "LocationName": "Stadt Zürich",
+                        "ShortName": "Zürich",
+                        "id": "3195",
+                        "locationNumber": "261"
+                      },
+                      "locked": true,
+                      "DateChangedDateTime": "/Date(1518081906000-0000)/",
+                      "DateChanged": "2018-02-08T10:25:06.0000000+01:00",
+                      "id": "116163"
+                    }
+                  ],
+                  "dataConditionID": "Item3"
+                }
+              ],
+              "FirstName": "Markus",
+              "LastName": "Hungerbühler",
+              "YearBirth": "1974",
+              "OldNameDateSpecified": false,
+              "OldPartyNameDateSpecified": false,
+              "CandidateParty": {
+                "Name": "Christian Democratic Party",
+                "ShortName": "CVP",
+                "ParentShortName": "CVP",
+                "partyLogoUrl": "https://www.srf.ch/static/wahlgrafiken/images/partylogos/cvp_deq.jpg",
+                "id": "89",
+                "smartVoteID": "0",
+                "partyColor": "#FF8901"
+              },
+              "candidateNumber": "0",
+              "id": "4401",
+              "smartVoteID": "1846"
+            },
+            {
+              "LocationResults": [
+                {
+                  "LocationResult": [
+                    {
+                      "Votes": "156",
+                      "AlreadyElected": false,
+                      "DataCondition": {
+                        "id": "Item3",
+                        "Value": "Result"
+                      },
+                      "ResultCondition": {
+                        "id": "Item1",
+                        "Value": "undefined"
+                      },
+                      "ResultLocation": {
+                        "ParentLocationID": "217",
+                        "LocationType": {
+                          "id": "4",
+                          "Value": "Gemeinde"
+                        },
+                        "LocationName": "Stadt Zürich",
+                        "ShortName": "Zürich",
+                        "id": "3195",
+                        "locationNumber": "261"
+                      },
+                      "locked": true,
+                      "DateChangedDateTime": "/Date(1518081908000-0000)/",
+                      "DateChanged": "2018-02-08T10:25:08.0000000+01:00",
+                      "id": "116164"
+                    }
+                  ],
+                  "dataConditionID": "Item3"
+                }
+              ],
+              "FirstName": "Claudia",
+              "LastName": "Rabelbauer",
+              "YearBirth": "1972",
+              "OldNameDateSpecified": false,
+              "OldPartyNameDateSpecified": false,
+              "CandidateParty": {
+                "Name": "Protestant Party",
+                "ShortName": "EVP",
+                "ParentShortName": "EVP",
+                "partyLogoUrl": "https://www.srf.ch/static/wahlgrafiken/images/partylogos/evp_dee.jpg",
+                "id": "90",
+                "smartVoteID": "0",
+                "partyColor": "#FFC80C"
+              },
+              "candidateNumber": "0",
+              "id": "3416",
+              "smartVoteID": "2291"
+            }
+          ]
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "City Council",
+          "OfficialType": {
+            "id": "2",
+            "Value": "Government"
+          },
+          "id": "97"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "217",
+          "LocationType": {
+            "id": "4",
+            "Value": "Community"
+          },
+          "LocationName": "Stadt Zürich",
+          "ShortName": "Zürich",
+          "id": "3195",
+          "locationNumber": "261"
+        },
+        "id": "1519"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "Mayor",
+          "OfficialType": {
+            "id": "3",
+            "Value": "Chair"
+          },
+          "id": "101"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "215",
+          "LocationType": {
+            "id": "4",
+            "Value": "Community"
+          },
+          "LocationName": "Winterthur",
+          "ShortName": "Winterthur",
+          "id": "3182",
+          "locationNumber": "230"
+        },
+        "id": "1527"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "Stadtpräsidium",
+          "OfficialType": {
+            "id": "3",
+            "Value": "Chair"
+          },
+          "id": "138"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "217",
+          "LocationType": {
+            "id": "4",
+            "Value": "Community"
+          },
+          "LocationName": "Stadt Zürich",
+          "ShortName": "Zürich",
+          "id": "3195",
+          "locationNumber": "261"
+        },
+        "id": "1521"
+      },
+      {
+        "CandidateResults": {
+          "Candidate": []
+        },
+        "PartyResults": {
+          "Party": []
+        },
+        "MetaResults": [],
+        "Official": {
+          "OfficialName": "Gemeinderat",
+          "OfficialType": {
+            "id": "1",
+            "Value": "Parliament"
+          },
+          "id": "100"
+        },
+        "ElectionLocation": {
+          "ParentLocationID": "217",
+          "LocationType": {
+            "id": "4",
+            "Value": "Community"
+          },
+          "LocationName": "Stadt Zürich",
+          "ShortName": "Zürich",
+          "id": "3195",
+          "locationNumber": "261"
+        },
+        "id": "1520"
+      }
+    ]
+  },
+  "language": "EN"
+}

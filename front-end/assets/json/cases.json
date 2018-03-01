@@ -1,0 +1,881 @@
+{
+  "FileInfo": {
+    "CasesCount": [
+      "1"
+    ],
+    "Items": [
+      {
+        "Items": [
+          null,
+          null
+        ],
+        "ItemsElementName": [
+          "TargetDate",
+          "CaseID"
+        ]
+      }
+    ],
+    "created": "/Date(1519912287631+0100)/",
+    "createdSpecified": true
+  },
+  "Case": [
+    {
+      "Votations": {
+        "Votation": [
+          {
+            "Title": "Volksinitiative «Ja zur Abschaffung der Radio- und Fernsehgebühren»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "LocationType": {
+                "id": "1",
+                "Value": "Country"
+              },
+              "LocationName": "Switzerland",
+              "ShortName": "CH",
+              "id": "1",
+              "locationNumber": "0"
+            },
+            "adminid": "617",
+            "id": "4037"
+          },
+          {
+            "Title": "Bundesbeschluss über die neue Finanzordnung 2021",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "LocationType": {
+                "id": "1",
+                "Value": "Country"
+              },
+              "LocationName": "Switzerland",
+              "ShortName": "CH",
+              "id": "1",
+              "locationNumber": "0"
+            },
+            "adminid": "616",
+            "id": "4038"
+          },
+          {
+            "Title": "Volksinitiative «Für demokratische Mitsprache – Lehrpläne vors Volk!»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Bern",
+              "ShortName": "BE",
+              "id": "9",
+              "locationNumber": "2"
+            },
+            "adminid": "0",
+            "id": "4039"
+          },
+          {
+            "Title": "Änderung der Verfassung betreffend Unvereinbarkeit der gleichzeitigen Mitgliedschaft in Regierungsrat Baselland und Bundesversammlung",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Basel-Landschaft",
+              "ShortName": "BL",
+              "id": "7",
+              "locationNumber": "13"
+            },
+            "adminid": "0",
+            "id": "4040"
+          },
+          {
+            "Title": "Initiative «Stimmrecht mit 16»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Basel-Landschaft",
+              "ShortName": "BL",
+              "id": "7",
+              "locationNumber": "13"
+            },
+            "adminid": "0",
+            "id": "4041"
+          },
+          {
+            "Title": "Initiative «Stimmrecht für Niedergelassene»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Basel-Landschaft",
+              "ShortName": "BL",
+              "id": "7",
+              "locationNumber": "13"
+            },
+            "adminid": "0",
+            "id": "4042"
+          },
+          {
+            "Title": "Initiative «Faire Kompensation der EL-Entlastung»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Basel-Landschaft",
+              "ShortName": "BL",
+              "id": "7",
+              "locationNumber": "13"
+            },
+            "adminid": "0",
+            "id": "4043"
+          },
+          {
+            "Title": "Kantonale Volksinitiative betreffend «Nachhaltige und faire Ernährung»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Basel-Stadt",
+              "ShortName": "BS",
+              "id": "8",
+              "locationNumber": "12"
+            },
+            "adminid": "0",
+            "id": "4044"
+          },
+          {
+            "Title": "Kantonale Volksinitiative «für eine zeitgemässe finanzielle Absicherung von Magistratspersonen»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Basel-Stadt",
+              "ShortName": "BS",
+              "id": "8",
+              "locationNumber": "12"
+            },
+            "adminid": "0",
+            "id": "4045"
+          },
+          {
+            "Title": "Volksinitiative «Zahlbares Wohnen für alle»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Lucerne",
+              "ShortName": "LU",
+              "id": "15",
+              "locationNumber": "3"
+            },
+            "adminid": "0",
+            "id": "4046"
+          },
+          {
+            "Title": "Kantonsratsbeschluss über Erneuerung und Umbau des Theaters St. Gallen",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "St. Gallen",
+              "ShortName": "SG",
+              "id": "21",
+              "locationNumber": "17"
+            },
+            "adminid": "0",
+            "id": "4047"
+          },
+          {
+            "Title": "Kantonsratsbeschluss über die Prämienverbilligung in der Krankenversicherung",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Schwyz",
+              "ShortName": "SZ",
+              "id": "20",
+              "locationNumber": "5"
+            },
+            "adminid": "0",
+            "id": "4048"
+          },
+          {
+            "Title": "Initiative «Für die Offenlegung der Politikfinanzierung»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Schwyz",
+              "ShortName": "SZ",
+              "id": "20",
+              "locationNumber": "5"
+            },
+            "adminid": "0",
+            "id": "4049"
+          },
+          {
+            "Title": "Volksinitiative «Lehrplan vors Volk»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Zurich",
+              "ShortName": "ZH",
+              "id": "29",
+              "locationNumber": "1"
+            },
+            "adminid": "0",
+            "id": "4050"
+          },
+          {
+            "Title": "Gesetz über die Ausbildungsbeiträge, Änderung vom 7. November 2017",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Aargau",
+              "ShortName": "AG",
+              "id": "3",
+              "locationNumber": "19"
+            },
+            "adminid": "0",
+            "id": "4051"
+          },
+          {
+            "Title": "Kantonsbeitrag an die Projektierung und Realisierung von Tram Bern – Ostermundigen",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Bern",
+              "ShortName": "BE",
+              "id": "9",
+              "locationNumber": "2"
+            },
+            "adminid": "0",
+            "id": "4052"
+          },
+          {
+            "Title": "Teilrevision des Gesetzes über den Natur- und Heimatschutz",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Schaffhausen",
+              "ShortName": "SH",
+              "id": "19",
+              "locationNumber": "14"
+            },
+            "adminid": "0",
+            "id": "4053"
+          },
+          {
+            "Title": "Volksinitiative «Für eine Totalrevision der Verfassung des Kantons Wallis vom 8. März 1907»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Valais",
+              "ShortName": "VS",
+              "id": "27",
+              "locationNumber": "23"
+            },
+            "adminid": "0",
+            "id": "4054"
+          },
+          {
+            "Title": "Grundsatzbeschluss über die Totalrevision der Kantonsverfassung",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Appenzell Ausserrhoden",
+              "ShortName": "AR",
+              "id": "4",
+              "locationNumber": "15"
+            },
+            "adminid": "0",
+            "id": "4057"
+          },
+          {
+            "Title": "Volksinitiative «Kostenlose zahnmedizinische Behandlung für alle»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Vaud",
+              "ShortName": "VD",
+              "id": "26",
+              "locationNumber": "22"
+            },
+            "adminid": "0",
+            "id": "4058"
+          },
+          {
+            "Title": "Weiterführung der Untersuchungen zum Standort Jura-Ost als Tiefenlager",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Jura",
+              "ShortName": "JU",
+              "id": "14",
+              "locationNumber": "26"
+            },
+            "adminid": "0",
+            "id": "4059"
+          },
+          {
+            "Title": "Stopp der Evaluation des Standorts Jurasüdfuss als Tiefenlager",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Jura",
+              "ShortName": "JU",
+              "id": "14",
+              "locationNumber": "26"
+            },
+            "adminid": "0",
+            "id": "4060"
+          },
+          {
+            "Title": "Verfassungsinitiative «Transparenz bei der Finanzierung der Politik»",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Fribourg",
+              "ShortName": "FR",
+              "id": "10",
+              "locationNumber": "10"
+            },
+            "adminid": "0",
+            "id": "4061"
+          },
+          {
+            "Title": "Dekret über einen Verpflichtungskredit für die Sanierung und den Ausbau des Kollegiums Heilig Kreuz in Freiburg",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Fribourg",
+              "ShortName": "FR",
+              "id": "10",
+              "locationNumber": "10"
+            },
+            "adminid": "0",
+            "id": "4062"
+          },
+          {
+            "Title": "Bei Annahme der Volksinitiative: Totalrevision der Kantonsverfassung durch Grossen Rat",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Valais",
+              "ShortName": "VS",
+              "id": "27",
+              "locationNumber": "23"
+            },
+            "adminid": "0",
+            "id": "4069"
+          },
+          {
+            "Title": "Bei Annahme der Volksinitiative: Totalrevision der Kantonsverfassung durch Verfassungsrat",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Valais",
+              "ShortName": "VS",
+              "id": "27",
+              "locationNumber": "23"
+            },
+            "adminid": "0",
+            "id": "4070"
+          },
+          {
+            "Title": "Sanierung und Erweiterung Volksschule Spitalacker: Baukredit",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "5789",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Stadt Bern",
+              "ShortName": "Bern",
+              "id": "3233",
+              "locationNumber": "351"
+            },
+            "adminid": "0",
+            "id": "4071"
+          },
+          {
+            "Title": "Überbauungsordnung Wohlenstrasse Eymatt",
+            "IndividualTitle": "",
+            "ImageName": "",
+            "VotationLocation": {
+              "ParentLocationID": "5789",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Stadt Bern",
+              "ShortName": "Bern",
+              "id": "3233",
+              "locationNumber": "351"
+            },
+            "adminid": "0",
+            "id": "4072"
+          }
+        ]
+      },
+      "Elections": {
+        "Election": [
+          {
+            "Official": {
+              "OfficialName": "Cantonal parliament",
+              "OfficialType": {
+                "id": "1",
+                "Value": "Parliament"
+              },
+              "id": "95"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Obwalden",
+              "ShortName": "OW",
+              "id": "18",
+              "locationNumber": "6"
+            },
+            "id": "1513"
+          },
+          {
+            "Official": {
+              "OfficialName": "State council",
+              "OfficialType": {
+                "id": "2",
+                "Value": "Government"
+              },
+              "id": "81"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Obwalden",
+              "ShortName": "OW",
+              "id": "18",
+              "locationNumber": "6"
+            },
+            "id": "1515"
+          },
+          {
+            "Official": {
+              "OfficialName": "Landrat",
+              "OfficialType": {
+                "id": "1",
+                "Value": "Parliament"
+              },
+              "id": "94"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Nidwalden",
+              "ShortName": "NW",
+              "id": "17",
+              "locationNumber": "7"
+            },
+            "id": "1516"
+          },
+          {
+            "Official": {
+              "OfficialName": "State council",
+              "OfficialType": {
+                "id": "2",
+                "Value": "Government"
+              },
+              "id": "49"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 0.5,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Nidwalden",
+              "ShortName": "NW",
+              "id": "17",
+              "locationNumber": "7"
+            },
+            "id": "1517"
+          },
+          {
+            "Official": {
+              "OfficialName": "Ersatzwahl Staatsrat",
+              "OfficialType": {
+                "id": "2",
+                "Value": "Government"
+              },
+              "id": "136"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Fribourg",
+              "ShortName": "FR",
+              "id": "10",
+              "locationNumber": "10"
+            },
+            "id": "1518"
+          },
+          {
+            "Official": {
+              "OfficialName": "City Council",
+              "OfficialType": {
+                "id": "2",
+                "Value": "Government"
+              },
+              "id": "97"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "217",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Stadt Zürich",
+              "ShortName": "Zürich",
+              "id": "3195",
+              "locationNumber": "261"
+            },
+            "id": "1519"
+          },
+          {
+            "Official": {
+              "OfficialName": "Gemeinderat",
+              "OfficialType": {
+                "id": "1",
+                "Value": "Parliament"
+              },
+              "id": "100"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "217",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Stadt Zürich",
+              "ShortName": "Zürich",
+              "id": "3195",
+              "locationNumber": "261"
+            },
+            "id": "1520"
+          },
+          {
+            "Official": {
+              "OfficialName": "Stadtpräsidium",
+              "OfficialType": {
+                "id": "3",
+                "Value": "Chair"
+              },
+              "id": "138"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "217",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Stadt Zürich",
+              "ShortName": "Zürich",
+              "id": "3195",
+              "locationNumber": "261"
+            },
+            "id": "1521"
+          },
+          {
+            "Official": {
+              "OfficialName": "State council",
+              "OfficialType": {
+                "id": "2",
+                "Value": "Government"
+              },
+              "id": "98"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Glarus",
+              "ShortName": "GL",
+              "id": "12",
+              "locationNumber": "8"
+            },
+            "id": "1524"
+          },
+          {
+            "Official": {
+              "OfficialName": "City Council",
+              "OfficialType": {
+                "id": "2",
+                "Value": "Government"
+              },
+              "id": "99"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "215",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Winterthur",
+              "ShortName": "Winterthur",
+              "id": "3182",
+              "locationNumber": "230"
+            },
+            "id": "1525"
+          },
+          {
+            "Official": {
+              "OfficialName": "Gemeinderat",
+              "OfficialType": {
+                "id": "1",
+                "Value": "Parliament"
+              },
+              "id": "139"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "215",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Winterthur",
+              "ShortName": "Winterthur",
+              "id": "3182",
+              "locationNumber": "230"
+            },
+            "id": "1526"
+          },
+          {
+            "Official": {
+              "OfficialName": "Mayor",
+              "OfficialType": {
+                "id": "3",
+                "Value": "Chair"
+              },
+              "id": "101"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "215",
+              "LocationType": {
+                "id": "4",
+                "Value": "Community"
+              },
+              "LocationName": "Winterthur",
+              "ShortName": "Winterthur",
+              "id": "3182",
+              "locationNumber": "230"
+            },
+            "id": "1527"
+          },
+          {
+            "Official": {
+              "OfficialName": "",
+              "OfficialType": {
+                "id": "3",
+                "Value": "Chair"
+              },
+              "id": "147"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Uri",
+              "ShortName": "UR",
+              "id": "25",
+              "locationNumber": "4"
+            },
+            "id": "1528"
+          },
+          {
+            "Official": {
+              "OfficialName": "",
+              "OfficialType": {
+                "id": "3",
+                "Value": "Chair"
+              },
+              "id": "148"
+            },
+            "ElectionLocation": {
+              "ParentLocationID": "1",
+              "ElectionPower": 1,
+              "LocationType": {
+                "id": "2",
+                "Value": "Canton"
+              },
+              "LocationName": "Uri",
+              "ShortName": "UR",
+              "id": "25",
+              "locationNumber": "4"
+            },
+            "id": "1531"
+          }
+        ]
+      },
+      "Title": "Abstimmungen und Wahlen vom 4. März 2018",
+      "EventDate": "/Date(1520118000000-0000)/",
+      "EventDateSpecified": true,
+      "id": "1469",
+      "active": true
+    }
+  ],
+  "language": "EN"
+}

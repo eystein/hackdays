@@ -1,0 +1,347 @@
+{
+  "FileInfo": {
+    "SeatLocationsCount": [
+      "28"
+    ],
+    "created": "/Date(1519912172659+0100)/",
+    "createdSpecified": true
+  },
+  "Official": [
+    {
+      "Seats": "200       ",
+      "OfficialLocation": {
+        "ParentLocationID": "0",
+        "LocationType": {
+          "id": "1",
+          "Value": "Country"
+        },
+        "LocationName": "Switzerland",
+        "ShortName": "CH",
+        "id": "1"
+      },
+      "LocationSeats": {
+        "Location": [
+          {
+            "Seats": "16        ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Aargau",
+            "ShortName": "AG",
+            "id": "3"
+          },
+          {
+            "Seats": "1         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 0.5,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Appenzell Ausserrhoden",
+            "ShortName": "AR",
+            "id": "4"
+          },
+          {
+            "Seats": "1         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 0.5,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Appenzell Innerrhoden",
+            "ShortName": "AI",
+            "id": "6"
+          },
+          {
+            "Seats": "7         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 0.5,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Basel-Landschaft",
+            "ShortName": "BL",
+            "id": "7"
+          },
+          {
+            "Seats": "5         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 0.5,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Basel-Stadt",
+            "ShortName": "BS",
+            "id": "8"
+          },
+          {
+            "Seats": "25        ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Bern",
+            "ShortName": "BE",
+            "id": "9"
+          },
+          {
+            "Seats": "7         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Fribourg",
+            "ShortName": "FR",
+            "id": "10"
+          },
+          {
+            "Seats": "11        ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Geneva",
+            "ShortName": "GE",
+            "id": "11"
+          },
+          {
+            "Seats": "1         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Glarus",
+            "ShortName": "GL",
+            "id": "12"
+          },
+          {
+            "Seats": "5         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Graubünden",
+            "ShortName": "GR",
+            "id": "13"
+          },
+          {
+            "Seats": "2         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Jura",
+            "ShortName": "JU",
+            "id": "14"
+          },
+          {
+            "Seats": "10        ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Lucerne",
+            "ShortName": "LU",
+            "id": "15"
+          },
+          {
+            "Seats": "4         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Neuchâtel",
+            "ShortName": "NE",
+            "id": "16"
+          },
+          {
+            "Seats": "1         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 0.5,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Nidwalden",
+            "ShortName": "NW",
+            "id": "17"
+          },
+          {
+            "Seats": "1         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 0.5,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Obwalden",
+            "ShortName": "OW",
+            "id": "18"
+          },
+          {
+            "Seats": "2         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Schaffhausen",
+            "ShortName": "SH",
+            "id": "19"
+          },
+          {
+            "Seats": "4         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Schwyz",
+            "ShortName": "SZ",
+            "id": "20"
+          },
+          {
+            "Seats": "12        ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "St. Gallen",
+            "ShortName": "SG",
+            "id": "21"
+          },
+          {
+            "Seats": "6         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Solothurn",
+            "ShortName": "SO",
+            "id": "22"
+          },
+          {
+            "Seats": "8         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Ticino",
+            "ShortName": "TI",
+            "id": "23"
+          },
+          {
+            "Seats": "6         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Thurgau",
+            "ShortName": "TG",
+            "id": "24"
+          },
+          {
+            "Seats": "1         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Uri",
+            "ShortName": "UR",
+            "id": "25"
+          },
+          {
+            "Seats": "18        ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Vaud",
+            "ShortName": "VD",
+            "id": "26"
+          },
+          {
+            "Seats": "8         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Valais",
+            "ShortName": "VS",
+            "id": "27"
+          },
+          {
+            "Seats": "3         ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Zug",
+            "ShortName": "ZG",
+            "id": "28"
+          },
+          {
+            "Seats": "35        ",
+            "ParentLocationID": "1",
+            "ElectionPower": 1,
+            "LocationType": {
+              "id": "2",
+              "Value": "Canton"
+            },
+            "LocationName": "Zurich",
+            "ShortName": "ZH",
+            "id": "29"
+          }
+        ]
+      },
+      "OfficialName": "House of Representatives",
+      "OfficialType": {
+        "id": "1",
+        "Value": "Parliament"
+      },
+      "id": "33"
+    }
+  ],
+  "language": "EN"
+}
