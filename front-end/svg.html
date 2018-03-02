@@ -7,7 +7,8 @@
     <title>Hand Coded SVG</title>
     <style>
 
-      .canton rect {
+      .canton rect,
+      polygon {
         stroke: #fff;
         stroke-width: 0;
         /* stroke-linecap: round; */
@@ -31,6 +32,7 @@
   <body>
 
     <svg width="815" height="650">
+      <title>Map of Swiss cantons</title>
       <g class="canton" id="SH">
         <rect x="495" y="0" width="100" height="100" />
         <text x="545" y="50">SH</text>
@@ -42,10 +44,18 @@
         <rect x="165" y="110" width="100" height="100" />
         <text x="215" y="160">JU</text>
       </g>
-      <g class="canton" id="BS-BL">
-        <rect x="275" y="110" width="100" height="100" />
-        <text x="325" y="160">BS/BL</text>
+
+      <g class="double-canton">
+        <g class="canton" id="BS">
+          <polygon points="275,111 374,210 275,210" />
+          <text x="300" y="180">BS</text>
+        </g>
+        <g class="canton" id="BL">
+          <polygon points="276,110 375,110 375,209" />
+          <text x="350" y="145">BL</text>
+        </g>
       </g>
+
       <g class="canton" id="AG">
         <rect x="385" y="110" width="100" height="100" />
         <text x="435" y="160">AG</text>
@@ -59,9 +69,20 @@
         <text x="655" y="160">TG</text>
       </g>
 
-      <g class="canton" id="AR-AI">
+      <!-- <g class="canton" id="AR-AI">
         <rect x="715" y="155" width="100" height="100" />
         <text x="765" y="205">AR/AI</text>
+      </g> -->
+
+      <g class="double-canton">
+        <g class="canton" id="AR">
+          <polygon points="275,111 374,210 275,210" />
+          <text x="300" y="180">AR</text>
+        </g>
+        <g class="canton" id="AI">
+          <polygon points="276,110 375,110 375,209" />
+          <text x="350" y="145">AI</text>
+        </g>
       </g>
 
       <g class="canton" id="NE">
@@ -97,9 +118,19 @@
         <rect x="275" y="330" width="100" height="100" />
         <text x="325" y="380">BE</text>
       </g>
-      <g class="canton" id="OW-NW">
+      <!-- <g class="canton" id="OW-NW">
         <rect x="385" y="330" width="100" height="100" />
         <text x="435" y="380">OW/NW</text>
+      </g> -->
+      <g class="double-canton">
+        <g class="canton" id="OW">
+          <polygon points="275,111 374,210 275,210" />
+          <text x="300" y="180">OW</text>
+        </g>
+        <g class="canton" id="NW">
+          <polygon points="276,110 375,110 375,209" />
+          <text x="350" y="145">NW</text>
+        </g>
       </g>
       <g class="canton" id="SZ">
         <rect x="495" y="330" width="100" height="100" />
